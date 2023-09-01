@@ -272,4 +272,4 @@ async def y(ctx, action=None, name=None, name1=None, num_channels=None, num_role
             await channel.send(name1)
             await asyncio.sleep(1)
 
-bot.run('MTA1NjkxMDM2NDEyNzc4OTEyNw.G7tF0U.CeYhop9J8dcLUF0jHxv_XEBpnbKh0wD2HwEDps')
+bot.run('your token here')
